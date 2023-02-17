@@ -1209,6 +1209,11 @@ video {
     background-color: rgb(15 23 42 / var(--tw-bg-opacity));
   }
 
+  .dark\:bg-slate-800 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(30 41 59 / var(--tw-bg-opacity));
+  }
+
   .dark\:text-purple-500 {
     --tw-text-opacity: 1;
     color: rgb(168 85 247 / var(--tw-text-opacity));
